@@ -1,4 +1,4 @@
-### Hi there 👋.
+### Hi there 👋
 I am @benku123
 
 - 🔭 I’m currently working on Back-end Development 
